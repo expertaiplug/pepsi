@@ -866,7 +866,6 @@
                     statusText.textContent = 'Moderate Pipeline';
                 } else {
                     light.classList.add('red');
-                    statusText.text
                    statusText.textContent = 'Weak Pipeline';
                 }
             } catch (error) {
